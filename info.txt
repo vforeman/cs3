@@ -1,0 +1,409 @@
+100
+You’ve entered the cave. It’s dangerous to go alone. You should probably take this sword.
+1
+0
+0
+0
+0
+0
+0
+
+50
+There’s nothing interesting in this room, just empty space…
+0
+0
+0
+0
+0
+0
+0
+
+150
+There’s a sign saying ’Beware of the puppies.’ You wonder what that means.
+0
+0
+0
+0
+0
+0
+0
+
+25
+There’s writing on the wall. You can’t make out all of it, but you do see the words ’Win’ and ’Die.’
+0
+0
+0
+0
+0
+0
+0
+
+75
+An ogre stands in your way. It’s going to eat you if you don’t kill it first!
+0
+1
+You have a sword and you manage to kill the ogre! Good job. Guess you’ll continue on your journey.
+0
+What a shame. If you had a sword you might’ve beaten him. If it’s any consolation, the ogre thinks you were delicious.
+1
+0
+
+125
+This room has glowing crystals hanging from the ceiling. For some reason you find that encouraging… Or at least it would be if they weren’t falling from the ceiling. You can only dodge them for so long…
+0
+0
+0
+0
+0
+0
+1
+
+250
+There’s nothing on the walls or on the floor, but you can hear the sound of dogs barking. You’re not sure which door it’s coming from.
+0
+0
+0
+0
+0
+0
+0
+
+13
+There’s a pair of dice on the floor. They seem to be weighted… Take them with you?
+2
+0
+0
+0
+0
+0
+0
+
+38
+Oh hey, you’ve fallen into a pit of snakes. You’re bitten, paralyzed, and eaten before you have a moment to try to save yourself!
+0
+0
+0
+0
+0
+0
+1
+
+62
+You escaped with your life! What a shame the floor in this room drops out beneath you and you plummet to your death…
+0
+0
+0
+0
+0
+0
+1
+
+95
+You escaped with your life! Now you feel pumped and ready to continue your journey!
+0
+0
+0
+0
+0
+0
+0
+
+200
+The door to the left has a picture of a puppy on it, the other a rather vicious looking hound…
+0
+0
+0
+0
+0
+0
+0
+
+300
+You hear a sizzling at your feet and the wall says ‘RUN.’ It’s a lit stick of dynamite! You try to blow out the fuse, but it seems the fuse is bewitched.
+5
+0
+0
+0
+0
+0
+0
+
+7
+Some goblins are in here shooting craps. They see you and demand that you join them. You see that you don’t have a choice.
+0
+2
+One of the goblins says to you, ’I see you have some dice with you. Roll.’ You win your roll. The goblins laugh menacingly and start to surround you. When you ask why, they inform you that the wall in the previous room said, ’In the game of goblin craps, if you Win you will Die.’ Sucks to be you right now.
+1
+Upon seeing that you have no dice of your own, one of the goblins hands you his set. You lose and they all laugh, then wish you luck on finding your way out of this cave.
+0
+0
+
+20
+Nothing of note here, just an X on the floor…
+0
+0
+0
+0
+0
+0
+0
+
+85
+The walls here are shined well so you can see yourself. You’ve got some ogre blood on you… Cool.
+0
+0
+0
+0
+0
+0
+0
+
+99
+The door closes behind you. No biggie. The doors to your left and right also close. Ooh… And now the room is quickly filling up with water! That’s it, you’re gonna drown. You spend your last few breaths thinking about deserts…
+0
+0
+0
+0
+0
+0
+1
+
+160
+Aww there are a bunch of puppies in here! They pile on you and you laugh and play with them for entirely too long. Don’t you have a lady to be saving? Get your life together…
+0
+0
+0
+0
+0
+0
+0
+
+210
+There are a dozen hounds asleep in here. They look vicious, even while sleeping. You try to tip-toe back into the previous room, but the door slams shut behind you! The noise wakes the hounds and they lay into you before you have time to think. Guess they were hungry.
+0
+0
+0
+0
+0
+0
+1
+
+275
+There are doors, but they’re sealed shut!
+0
+5
+You place the dynamite in front of the door you’d like to go through. It blows up and you can move on.
+0
+The door behind you closes and you hear a boom from the previous room. You realize that this room is the end for you.
+1
+0
+
+350
+Nothing interesting in here… Save for the floor being covered in some liquid. It smells like gasoline.
+0
+5
+The dynamite is about to explode. Even though you throw it across the room and would’ve been safe from the explosion, it ignites the gasoline on the floor and your life ends in excessive warmth.
+1
+You hope this gasoline doesn’t ruin your shoes…
+0
+0
+
+4
+There’s an unlabeled potion on the floor…
+3
+0
+0
+0
+0
+0
+0
+
+9
+DEATH.
+0
+0
+0
+0
+0
+0
+0
+
+19
+There are no doors and the way you entered closes. Guess this is the beginning of the end… -sigh-
+0
+0
+0
+0
+0
+0
+1
+
+21
+You walk into the room and before you know it you’re sinking into the floor. There is no escape. At least your death will be relatively quick.
+0
+0
+0
+0
+0
+0
+1
+
+76
+The door closes behind you and OH MY GOSH EVERYTHING GOES UP IN FLAME AAAAHHHHHH!!!
+0
+0
+0
+0
+0
+0
+1
+
+94
+Your arm is itchy. Now it burns. All of your skin feels like it’s burning. Your skin is literally burning. So ogre blood is basically acid? Who woulda thunk…
+0
+0
+0
+0
+0
+0
+1
+
+152
+DEATH TO YOU!
+0
+0
+0
+0
+0
+0
+1
+
+180
+There’s a pot of gold in the middle of the room.
+4
+0
+0
+0
+0
+0
+0
+
+260
+What happened to you is just too painful to describe. Just… be glad it’s over now…
+0
+0
+0
+0
+0
+0
+1
+
+285
+Nothing interesting here!
+0
+0
+0
+0
+0
+0
+0
+
+325
+There’s a light behind the door to your left.
+0
+0
+0
+0
+0
+0
+0
+
+400
+Apparently that door was actually a portal into space. The expanse is beautiful, but you’re also frozen and dead. You spend your afterlife deciding whether or not that’s a reasonable trade.
+0
+0
+0
+0
+0
+0
+1
+
+6
+There’s a man standing between you and the doors. He says he’s thirsty. So thirsty he could kill someone… He demands something to drink
+0
+3
+You give him the potion. He thanks you for the drink and then says his fingers are tingling. They disappear and the rest of the man quickly follows suit. Guess you can leave this room now.
+0
+Upon saying you have nothing for him, the man replies, ’That’s a shame. I guess your blood will have to do.’
+1
+0
+
+1
+There’s a light behind both doors. Let’s hope that means something good.
+0
+0
+0
+0
+0
+0
+0
+
+170
+Looks like both doors lead to the outside. Now that you have this pot of gold, do you really need to go rescue that lady? You could probably live pretty well off this. Oh well, may as well finish what you started.
+0
+0
+0
+0
+0
+0
+0
+
+190
+There’s a leprechaun in here. He says he lost his pot of gold.
+0
+4
+He can see that you’re holding a pot of gold and demands to have it. It’s no skin off your back to give it to him, so you do. He jumps with glee and disappears in a puff of shamrocks. Onward!
+0
+The leprechaun sees that you don’t have a pot of gold with you and turns red with rage! Before you know it he’s jumped on you and is strangling you! Who knew leprechauns were so strong… You ponder this as you run out of air and your vision fades to black.
+1
+0
+
+280
+There last thing you know is the word ’DIE’ ringing in your ears.
+0
+0
+0
+0
+0
+0
+1
+
+290
+Let’s hope one of these doors leads to a way out.
+0
+0
+0
+0
+0
+0
+0
+
+315
+THE LIGHT WAS A LIE AAAAAHHHHHHHH IT BUUUURRRRNNNNSSSSSSS!!!!!!!!!!!
+0
+0
+0
+0
+0
+0
+1
+
+340
+Glad you realized the sun had set by now. That last door may’ve led to something terrible. Both doors show that dusk has fallen outside.
+0
+0
+0
+0
+0
+0
+0
